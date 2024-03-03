@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Anandababu</h1>
 <h3 align="center">A Freshman, majoring in Computer Science</h3>
 
-- 📫 How to reach me: **tanishanand2106@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me at: tanishanand2106@gmail.com</h3>
 <p align="left">
 </p>
 
