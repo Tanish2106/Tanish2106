@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanish Anandababu</h1>
 <h3 align="center">A Sophomore, majoring in Computer Science</h3>
-<p align="left">💫 My interests: Artificial Intelligence and Machine Learning<br>📚 I'm currently developing my full stack development skills<br>📩 Reach me at: tanishanand2106@gmail.com</p>
+<p align="left">💫 My interests: Artificial Intelligence and Machine Learning<br>📚 I'm currently enhancing my full stack development skills<br>📩 Reach me at: tanishanand2106@gmail.com</p>
 
 <h3 align="left">I code with</h3>
 
